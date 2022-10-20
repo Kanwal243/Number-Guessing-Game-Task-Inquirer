@@ -1,7 +1,7 @@
 # Setup
 
-"# Number-Guessing-Game-Task-Inquirer" 
-
+# Number Guessing Game Inquirer
+ 
 ![install package](https://user-images.githubusercontent.com/83213183/196907357-c07498de-7833-4767-95d1-b27ba34192a9.PNG)
 
 
