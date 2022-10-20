@@ -9,7 +9,7 @@
 $ git clone https://github.com/Kanwal243/Number-Guessing-Game-Task-Inquirer.git
 
 # Navigate to project
-$ cd typescript-calculator-cli
+$ cd typescript-1
 
 # Install dependencies
 $ npm i
